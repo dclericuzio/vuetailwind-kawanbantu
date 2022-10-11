@@ -15,24 +15,26 @@
         </div>
 
         <!-- content -->
-        <div class="flex flex-column justify-center pt-24 pb-24">
+        <!-- <div class="flex flex-column justify-center pt-24 pb-24">
             <div class="flex flex-row space-x-14">
-                <div class="bg-[url('@/assets/1.png')] w-[320px] h-[320px] bg-no-repeat bg-cover">
+                <div class="bg-[url('@/assets/1.png')] w-[281px] h-[281px] bg-no-repeat bg-cover">
                     <div class="bg-[rgba(0,0,0,0.5)] h-full rounded-[10px] relative">
                         <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-6 right-[25%] ">Pendidikan</h1>
                     </div>
                 </div>
-                <div class="bg-[url('@/assets/1.png')] w-[320px] h-[320px] bg-no-repeat bg-cover">
+
+                <div class="bg-[url('@/assets/1.png')] w-[281px] h-[281px] bg-no-repeat bg-cover">
                     <div class="bg-[rgba(0,0,0,0.5)] h-full rounded-[10px] relative">
                         <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-6 left-[25%] ">Non-profit</h1>
                     </div>
                 </div>
-                <div class="bg-[url('@/assets/1.png')] w-[320px] h-[320px] bg-no-repeat bg-cover">
-                    <div class="bg-[rgba(0,0,0,0.5)] h-full rounded-[10px]">
-                        <h1 class="text-[32px] text-[#FFFFFF] text-center ">Tempat Ibadah</h1>
+                <div class="bg-[url('@/assets/1.png')] w-[281px] h-[281px] bg-no-repeat bg-cover">
+                    <div class="bg-[rgba(0,0,0,0.5)] h-full rounded-[10px] text-center ">
+                        <h1 class="text-[32px] text-[#FFFFFF] ">Tempat</h1>
+                        <h1 class="text-[32px] text-[#FFFFFF] ">Ibadah</h1>
                     </div>
                 </div>
-                <div class="bg-[url('@/assets/1.png')] w-[320px] h-[320px] bg-no-repeat bg-cover">
+                <div class="bg-[url('@/assets/1.png')] w-[281px] h-[281px] bg-no-repeat bg-cover">
                     <div class="bg-[rgba(0,0,0,0.5)] h-full rounded-[10px] relative">
                         <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-6 left-[25%] ">Lambaga Amal</h1>
                     </div>
@@ -41,28 +43,28 @@
         </div>
         <div class="flex flex-column justify-center pb-36">
             <div class="flex flex-row space-x-14">
-                <div class="bg-[url('@/assets/1.png')] w-[320px] h-[320px] bg-no-repeat bg-cover">
+                <div class="bg-[url('@/assets/1.png')] w-[281px] h-[281px] bg-no-repeat bg-cover">
                     <div class="bg-[rgba(0,0,0,0.5)] h-full rounded-[10px] relative">
                         <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-6 left-[25%] ">Organisasi</h1>
                     </div>
                 </div>
-                <div class="bg-[url('@/assets/1.png')] w-[320px] h-[320px] bg-no-repeat bg-cover">
+                <div class="bg-[url('@/assets/1.png')] w-[281px] h-[281px] bg-no-repeat bg-cover">
                     <div class="bg-[rgba(0,0,0,0.5)] h-full rounded-[10px] relative">
                         <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-6 left-[25%] ">Komunitas</h1>
                     </div>
                 </div>
-                <div class="bg-[url('@/assets/1.png')] w-[320px] h-[320px] bg-no-repeat bg-cover">
+                <div class="bg-[url('@/assets/1.png')] w-[281px] h-[281px] bg-no-repeat bg-cover">
                     <div class="bg-[rgba(0,0,0,0.5)] h-full rounded-[10px] relative">
                         <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-6 left-[25%] ">Kampanye aksi sosial</h1>
                     </div>
                 </div>
-                <div class="bg-[url('@/assets/1.png')] w-[320px] h-[320px] bg-no-repeat bg-cover">
+                <div class="bg-[url('@/assets/1.png')] w-[281px] h-[281px] bg-no-repeat bg-cover">
                     <div class="bg-[rgba(0,0,0,0.5)] h-full rounded-[10px] relative">
                         <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-6 left-[25%] ">Perusahaan</h1>
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
 
 
@@ -75,35 +77,76 @@
         </div> -->
 
 
-        <!-- <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-y-28 xl:grid-cols-4 px-16 pt-32 place-items-center pb-32">
-            <div class="bg-[url('@/assets/1.png')] brightness-[0.7] h-full w-[281px] rounded-[8px]">
-                    <h1 class="text-[32px] text-[#FFFFFF] ">Pendidikan</h1>
-            </div>
+        <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-y-28 xl:grid-cols-4 px-16 pt-32 place-items-center pb-32">
+                <div class="bg-[url('@/assets/1.png')] w-[281px] h-[281px] rounded-[10px] bg-no-repeat bg-cover">
+                    <div class="bg-[rgba(0,0,0,0.5)] h-full rounded-[10px] relative">
+                        <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-6 right-[25%] ">Pendidikan</h1>
+                    </div>
+                    <h1 class="text-[16px] text-[#07335E] pt-4 text-center">Bantuan untuk sekolah, kuliah dll.</h1>
+                </div>
+                
+
+                <div class="bg-[url('@/assets/2.png')] w-[281px] h-[281px] rounded-[10px] bg-no-repeat bg-cover">
+                    <div class="bg-[rgba(0,0,0,0.5)] h-full rounded-[10px] relative">
+                        <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-6 left-[25%] ">Non-profit</h1>
+                    </div>
+                    <h1 class="text-[16px] text-[#07335E] pt-4 text-center">Organisasi nirlaba, yayasan dll.</h1>
+                </div>
+
+                <div class="bg-[url('@/assets/3.png')] w-[281px] h-[281px] rounded-[10px] bg-no-repeat bg-cover">
+                    <div class="bg-[rgba(0,0,0,0.5)] h-full rounded-[10px] relative ">
+                        <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-16 right-[32%]">Tempat</h1>
+                        <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-6 right-[33%]">Ibadah</h1>
+                    </div>
+                    <h1 class="text-[16px] text-[#07335E] pt-4 text-center">Donasi untuk keberlangsungan</h1>
+                    <h1 class="text-[16px] text-[#07335E] text-center">politik, dll</h1>
+                </div>
+
+                <div class="bg-[url('@/assets/4.png')] w-[281px] h-[281px] rounded-[10px] bg-no-repeat bg-cover">
+                    <div class="bg-[rgba(0,0,0,0.5)] h-full rounded-[10px] relative">
+                        <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-16 right-[26%]">Lembaga</h1>
+                        <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-6 right-[37%]">Amal</h1>
+                    </div>
+                    <h1 class="text-[16px] text-[#07335E] pt-4 text-center">Zakat, wakaf, infaq, dll.</h1>
+                </div>
+
+                <div class="bg-[url('@/assets/5.png')] w-[281px] h-[281px] rounded-[10px] bg-no-repeat bg-cover">
+                    <div class="bg-[rgba(0,0,0,0.5)] h-full rounded-[10px] relative">
+                        <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-6 left-[25%] ">Organisasi</h1>
+                    </div>
+                    <h1 class="text-[16px] text-[#07335E] pt-4 text-center">Program sosial, bantuan</h1>
+                    <h1 class="text-[16px] text-[#07335E] text-center">sosial, dll</h1>
+                </div>
+
+                <div class="bg-[url('@/assets/6.png')] w-[281px] h-[281px] rounded-[10px] bg-no-repeat bg-cover">
+                    <div class="bg-[rgba(0,0,0,0.5)] h-full rounded-[10px] relative">
+                        <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-6 left-[25%] ">Komunitas</h1>
+                    </div>
+                    <h1 class="text-[16px] text-[#07335E] pt-4 text-center"> Komunitas, lembaga</h1>
+                    <h1 class="text-[16px] text-[#07335E] text-center">masyarakat, dll.</h1>
+                </div>
+
+                <div class="bg-[url('@/assets/7.png')] w-[281px] h-[281px] rounded-[10px] bg-no-repeat bg-cover">
+                    <div class="bg-[rgba(0,0,0,0.5)] h-full rounded-[10px] relative">
+                        <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-16 right-[23%]">Kampanye</h1>
+                        <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-6 right-[25%]">aksi sosial</h1>
+                    </div>
+                    <h1 class="text-[16px] text-[#07335E] pt-4 text-center">Donasi untuk keberlangsungan</h1>
+                    <h1 class="text-[16px] text-[#07335E] text-center">politik, dll</h1>
+                </div>
+
+                <div class="bg-[url('@/assets/8.png')] w-[281px] h-[281px] rounded-[10px] bg-no-repeat bg-cover">
+                    <div class="bg-[rgba(0,0,0,0.5)] h-full rounded-[10px] relative">
+                        <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-6 left-[25%] ">Perusahaan</h1>
+                    </div>
+                    <h1 class="text-[16px] text-[#07335E] pt-4 text-center">Program sosial perusahaan </h1>
+                    <h1 class="text-[16px] text-[#07335E] text-center">, CSR, dll.</h1>
+                </div>
 
 
-            <div class="bg-[rgba(44,43,43,0.5)] relative h-full w-[281px] rounded-[8px]">
-                <img src="@/assets/2.png" alt="nonprofit" class=" mix-blend-overlay"/>
-            </div>
-            <div class="bg-[rgba(44,43,43,0.5)] relative h-full w-[281px] rounded-[8px]">
-                <img src="@/assets/3.png" alt="ibadah" class=" mix-blend-overlay"/>
-            </div>
-            <div class="bg-[rgba(44,43,43,0.5)] relative h-full w-[281px] rounded-[8px]">
-                <img src="@/assets/4.png" alt="lembaga" class="mix-blend-overlay"/>
-            </div>
-            <div class="bg-[rgba(44,43,43,0.5)] relative h-full w-[281px] rounded-[8px]">
-                <img src="@/assets/5.png" alt="organisasi" class=" mix-blend-overlay"/>
-            </div>
-            <div class="bg-[rgba(44,43,43,0.5)] relative h-full w-[281px] rounded-[8px]">
-                <img src="@/assets/6.png" alt="komunitas" class=" mix-blend-overlay"/>
-            </div>
-            <div class="bg-[rgba(44,43,43,0.5)] relative h-full w-[281px] rounded-[8px]">
-                <img src="@/assets/7.png" alt="kampanye" class=" mix-blend-overlay"/>
-            </div>
-            <div class="bg-[rgba(44,43,43,0.5)] relative h-full w-[281px] rounded-[8px]">
-                <img src="@/assets/8.png" alt="perusahaan" class=" mix-blend-overlay"/>
-            </div>
            
-        </div> -->
+           
+        </div>
 
     </div>
 </template>

@@ -8,7 +8,7 @@ import Lesgo from "./components/lesgo.vue";
 </script>
 
 <template>
-    <div class="bg-gradient-to-r from-[#F8EFFE] to-[#E9F6F5]">
+    <div class="sm:bg-gradient-to-r from-[#F8EFFE] to-[#E9F6F5]">
         <Navbar/>
         <Home/>
         
