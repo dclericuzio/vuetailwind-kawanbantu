@@ -2,10 +2,13 @@
     <div class="w-full relative">
 
         <!-- bg -->
-        <div class="absolute">
+        <div class="relative">
             <!-- left -->
-            <!-- <img src="@/assets/bgtopleft.svg" alt="atas kiri" class="top-0 left-0"/> -->
+            <img src="@/assets/bgtopleft.svg" alt="atas kiri" class=" absolute top-28 left-20 z-[-99999] xs:left-0"/>
             <!-- right -->
+            <img src="@/assets/bgtopleft.svg" alt="bawah kanan" class=" absolute top-[800px] right-14 z-[-99999]"/>
+            <img src="@/assets/bgtopleft.svg" alt="atas kanan" class=" absolute top-10 -right-10 z-[-99999]"/>
+            <img src="@/assets/bgtopright.svg" alt="atas bunder kanan" class=" absolute -top-48 right-0 z-[-99999]"/>
 
         </div>
 
@@ -77,7 +80,7 @@
         </div> -->
 
 
-        <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-y-28 xl:grid-cols-4 px-16 pt-32 place-items-center pb-32">
+        <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-y-28 xl:grid-cols-4 px-16 pt-32 place-items-center pb-32 z-1">
                 <div class="bg-[url('@/assets/1.png')] w-[281px] h-[281px] rounded-[10px] bg-no-repeat bg-cover">
                     <div class="bg-[rgba(0,0,0,0.5)] h-full rounded-[10px] relative">
                         <h1 class="absolute text-[32px] text-[#FFFFFF] bottom-6 right-[25%] ">Pendidikan</h1>
