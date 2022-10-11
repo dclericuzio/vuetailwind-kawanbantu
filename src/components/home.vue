@@ -5,7 +5,7 @@
   <div class="w-full h-full bg-transparent py-20">
       <div class="grid grid-cols-2">
             <div class="col-span-1 m-auto">
-                    <img src="@/assets/homeleft.png" alt="homeleft" />
+                    <img src="@/assets/homeleft.svg" alt="homeleft" />
             </div>
             <div class="col-span-1 m-auto mb-[12rem]">
                <h1 class="text-[48px]">Solusi #DonasiTanpaWorry</h1>
